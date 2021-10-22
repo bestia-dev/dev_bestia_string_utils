@@ -1,0 +1,22 @@
+[package]
+name = "dev_bestia_string_utils"
+version = "0.1.19"
+description = "Library for string manipulation"
+authors = ["Luciano Bestia"]
+edition = "2018"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/lucianobestia/dev_bestia_string_utils"
+categories = ["rust-patterns"]
+keywords = ["string"]
+publish = false
+include = [
+    "Cargo.toml",
+    "LICENSE",
+    "README.md",
+    "src/*"
+]
+
+[dependencies]
+log = "0.4.6"
+unwrap="1.2.1"
