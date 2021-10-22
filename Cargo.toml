@@ -9,7 +9,7 @@ readme = "README.md"
 repository = "https://github.com/lucianobestia/dev_bestia_string_utils"
 categories = ["rust-patterns"]
 keywords = ["string"]
-publish = false
+publish = true
 include = [
     "Cargo.toml",
     "LICENSE",
