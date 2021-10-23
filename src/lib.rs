@@ -4,13 +4,15 @@
 //! # dev_bestia_string_utils
 //!
 //! **Library for string manipulation**  
-//! ***[repository](https://github.com/lucianobestia/dev_bestia_string_utils); version: 0.1.19  date: 2021-10-22 authors: Luciano Bestia***  
+//! ***[repository](https://github.com/lucianobestia/dev_bestia_string_utils); version: 0.1.19  date: 2021-10-23 authors: Luciano Bestia***  
 //!
-//! [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-102-green.svg)]()
-//! [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-61-blue.svg)]()
-//! [![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-22-purple.svg)]()
-//! [![Lines in examples](https://img.shields.io/badge/Lines_in_examples-0-yellow.svg)]()
-//! [![Lines in tests](https://img.shields.io/badge/Lines_in_tests-0-orange.svg)]()
+//! [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-102-green.svg)](https://github.com/LucianoBestia/dev_bestia_string_utils/)
+//! [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-61-blue.svg)](https://github.com/LucianoBestia/dev_bestia_string_utils/)
+//! [![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-22-purple.svg)](https://github.com/LucianoBestia/dev_bestia_string_utils/)
+//! [![Lines in examples](https://img.shields.io/badge/Lines_in_examples-0-yellow.svg)](https://github.com/LucianoBestia/dev_bestia_string_utils/)
+//! [![Lines in tests](https://img.shields.io/badge/Lines_in_tests-0-orange.svg)](https://github.com/LucianoBestia/dev_bestia_string_utils/)
+//!
+//! [![crates.io](https://img.shields.io/crates/v/dev_bestia_string_utils.svg)](https://crates.io/crates/dev_bestia_string_utils) [![Documentation](https://docs.rs/dev_bestia_string_utils/badge.svg)](https://docs.rs/dev_bestia_string_utils/) [![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/dev_bestia_string_utils.svg)](https://web.crev.dev/rust-reviews/crate/dev_bestia_string_utils/) [![Lib.rs](https://img.shields.io/badge/Lib.rs-rust-orange.svg)](https://lib.rs/crates/dev_bestia_string_utils/) [![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LucianoBestia/dev_bestia_string_utils/blob/master/LICENSE) [![Rust](https://github.com/LucianoBestia/dev_bestia_string_utils/workflows/RustAction/badge.svg)](https://github.com/LucianoBestia/dev_bestia_string_utils/)  
 //!
 //! ## Motivation
 //!
