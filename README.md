@@ -20,7 +20,7 @@
 
 [comment]: # (auto_badges start)
 
-[![crates.io](https://img.shields.io/crates/v/dev_bestia_string_utils.svg)](https://crates.io/crates/dev_bestia_string_utils) [![Documentation](https://docs.rs/dev_bestia_string_utils/badge.svg)](https://docs.rs/dev_bestia_string_utils/) [![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/dev_bestia_string_utils.svg)](https://web.crev.dev/rust-reviews/crate/dev_bestia_string_utils/) [![Lib.rs](https://img.shields.io/badge/Lib.rs-rust-orange.svg)](https://lib.rs/crates/dev_bestia_string_utils/) [![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LucianoBestia/dev_bestia_string_utils/blob/master/LICENSE) [![Rust](https://github.com/LucianoBestia/dev_bestia_string_utils/workflows/RustAction/badge.svg)](https://github.com/LucianoBestia/dev_bestia_string_utils/)  
+[![crates.io](https://img.shields.io/crates/v/dev_bestia_string_utils.svg)](https://crates.io/crates/dev_bestia_string_utils) [![Documentation](https://docs.rs/dev_bestia_string_utils/badge.svg)](https://docs.rs/dev_bestia_string_utils/) [![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/dev_bestia_string_utils.svg)](https://web.crev.dev/rust-reviews/crate/dev_bestia_string_utils/) [![Lib.rs](https://img.shields.io/badge/Lib.rs-rust-orange.svg)](https://lib.rs/crates/dev_bestia_string_utils/) [![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LucianoBestia/dev_bestia_string_utils/blob/master/LICENSE) [![Rust](https://github.com/LucianoBestia/dev_bestia_string_utils/workflows/RustAction/badge.svg)](https://github.com/LucianoBestia/dev_bestia_string_utils/actions)  
 
 [comment]: # (auto_badges end)
 
