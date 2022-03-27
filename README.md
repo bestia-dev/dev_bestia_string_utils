@@ -5,7 +5,7 @@
 [comment]: # (auto_cargo_toml_to_md start)
 
 **Library for string manipulation**  
-***[repository](https://github.com/lucianobestia/dev_bestia_string_utils); version: 0.1.19  date: 2021-10-23 authors: Luciano Bestia***  
+***version: 0.1.19 date: 2021-10-23 author: [dev_Bestia](https://bestia.dev) repository: [GitHub](https://github.com/LucianoBestia/dev_bestia_string_utils)***  
 
 [comment]: # (auto_cargo_toml_to_md end)
 
