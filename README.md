@@ -30,6 +30,8 @@
 
 [comment]: # (auto_badges end)
 
+Hashtags: #rustlang
+
 ## Motivation
 
 There is always some functions around strings that are used very often.  
