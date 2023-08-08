@@ -9,6 +9,8 @@
 
 [comment]: # (auto_cargo_toml_to_md end)
 
+![status](https://img.shields.io/badge/work_in_progress-yellow) 
+
 [comment]: # (auto_lines_of_code start)
 [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-102-green.svg)](https://github.com/bestia-dev/dev_bestia_string_utils/)
 [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-61-blue.svg)](https://github.com/bestia-dev/dev_bestia_string_utils/)
