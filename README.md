@@ -1,26 +1,24 @@
-[comment]: # (auto_md_to_doc_comments segment start A)
-
 # dev_bestia_string_utils
 
-[comment]: # (auto_cargo_toml_to_md start)
+[//]: # (auto_cargo_toml_to_md start)
 
 **Library for string manipulation**  
 ***version: 0.1.19 date: 2021-10-23 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/dev_bestia_string_utils)***  
 
-[comment]: # (auto_cargo_toml_to_md end)
+[//]: # (auto_cargo_toml_to_md end)
 
  ![work_in_progress](https://img.shields.io/badge/work_in_progress-yellow)
 
-[comment]: # (auto_lines_of_code start)
+[//]: # (auto_lines_of_code start)
 [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-102-green.svg)](https://github.com/bestia-dev/dev_bestia_string_utils/)
 [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-61-blue.svg)](https://github.com/bestia-dev/dev_bestia_string_utils/)
 [![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-22-purple.svg)](https://github.com/bestia-dev/dev_bestia_string_utils/)
 [![Lines in examples](https://img.shields.io/badge/Lines_in_examples-0-yellow.svg)](https://github.com/bestia-dev/dev_bestia_string_utils/)
 [![Lines in tests](https://img.shields.io/badge/Lines_in_tests-0-orange.svg)](https://github.com/bestia-dev/dev_bestia_string_utils/)
 
-[comment]: # (auto_lines_of_code end)
+[//]: # (auto_lines_of_code end)
 
-[comment]: # (auto_badges start)
+[//]: # (auto_badges start)
 
  [![crates.io](https://img.shields.io/crates/v/dev_bestia_string_utils.svg)](https://crates.io/crates/dev_bestia_string_utils)
  [![Documentation](https://docs.rs/dev_bestia_string_utils/badge.svg)](https://docs.rs/dev_bestia_string_utils/)
@@ -30,7 +28,7 @@
  [![Rust](https://github.com/bestia-dev/dev_bestia_string_utils/workflows/RustAction/badge.svg)](https://github.com/bestia-dev/dev_bestia_string_utils/actions)
  ![dev_bestia_string_utils](https://bestia.dev/webpage_hit_counter/get_svg_image/307799587.svg)
 
-[comment]: # (auto_badges end)
+[//]: # (auto_badges end)
 
 Hashtags: #rustlang #tutorial  
 My projects on Github are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).
@@ -67,5 +65,3 @@ So I can drink a free beer for your health :-)
 [//github.com/bestia-dev](https://github.com/bestia-dev)  
 [//bestiadev.substack.com](https://bestiadev.substack.com)  
 [//youtube.com/@bestia-dev-tutorials](https://youtube.com/@bestia-dev-tutorials)  
-
-[comment]: # (auto_md_to_doc_comments segment end A)
